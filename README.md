@@ -19,16 +19,16 @@ ModBus_Lite/
 
 ModBus_Lite provides a simplified interface for communicating with Modbus-enabled devices. 
 It is built for developers who need a clean, minimal, and efficient Modbus solution in Python.
----
 
+---
 ## Features
 Simplified API – Easy-to-use functions for Modbus read/write operations
 Lightweight – Minimal dependencies for quick setup
 Modular Design – Organized structure for easy maintenance and expansion
 Python Friendly – Built specifically for Python environments
----
+
 ## Getting Started
----
+
 ## Clone the Repository
 ```bash
 git clone https://github.com/Aanya913731/ModBus_Lite.git
