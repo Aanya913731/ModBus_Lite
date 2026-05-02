@@ -40,12 +40,8 @@ python main.py
 ```
 
 ## Usage
+
 You can use the provided modules to connect with Modbus devices, poll registers, and integrate with your own Python applications.
----
+
 ## Contributing
 Contributions are welcome. Feel free to fork the repository and submit pull requests.
----
-## License
-MIT License
-EOF
----
